@@ -1,0 +1,1 @@
+web: gunicorn hello_prjj.wsgi:application
