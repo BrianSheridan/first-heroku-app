@@ -25,8 +25,7 @@ SECRET_KEY = '2(jv-!t*=ntwg!rcno00b%s85tfjz-#3l+2l2q$4^5#s!4r*lg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['com-slayer-helloheroku.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
